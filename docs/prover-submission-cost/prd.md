@@ -116,7 +116,7 @@ In short, as a prover, I wish to:
 ### Prover profitability
 
 - **What**: Proving **SHOULD** be profitable in the presence of `<=M` submitters, even during periods of low activity.
-- **Why**: To ensure chain-growth and avoid avoid continuous pruning.
+- **Why**: To ensure chain-growth and avoid continuous pruning.
 - **Where**: Derived from other requirements on stable block production and looking at other chains and general economics.
 
 ### Scalability
